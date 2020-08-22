@@ -1,0 +1,17 @@
+{
+  "name": "relics_players_bot",
+  "version": "1.0.0",
+  "description": "Bot for Relics Contests",
+  "main": "main.js",
+  "dependencies": {
+    "brawlstars.js": "^1.0.7",
+    "discord.js": "^12.3.1",
+    "xlsx": "^0.16.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Soham",
+  "license": "ISC"
+}
